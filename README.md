@@ -1,17 +1,14 @@
-# cyberjoe-social-toolkit
+# cyberjoe-tection-toolkit
 
 THIS TOOL WILL BE USED FOR PENETRATION TESTING ONLY. THIS TOOL WILL NOT BE USED FOR ANYTHING BAD. ITS A TOOL FOR PENETRATION TESTING PROFESSIONALS. ITS VERY BASIC. ONLY USE THIS TOOL IF YOU HAVE A CONTRACT FOR A PENTEST.
 
 How to Use and Expand:
 
-Save: Save the code as a .py file (cyberjoe_social.py).
+Save: Save the code as a .py file (cyberjoe_tection.py).
 
 Install Tkinter: If you don't have it, install it: sudo apt-get install python3-tk (on Debian/Ubuntu) or the equivalent for your system.
 
-Run: Execute the script: python3 cyberjoe_social.py
-
-Add Tools: The most important part is adding more tools. Follow the existing examples:
-Add the tool name to the self.tool_dropdown list.
+Run: Execute the script: python3 cyberjoe_tection.py
 
 ______________________________________________________________________________________________________
 
