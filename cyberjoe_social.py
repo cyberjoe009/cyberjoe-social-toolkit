@@ -6,7 +6,7 @@ import os
 class AdvancedSetoolkitGUI:
     def __init__(self, master):
         self.master = master
-        master.title("Cyberjoe Social Engineering")
+        master.title("Cyberjoe Tection Toolkit")
 
         # --- Tool Selection ---
         self.tool_label = ttk.Label(master, text="Select Tool:")
